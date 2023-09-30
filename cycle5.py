@@ -4,5 +4,5 @@ num = 1
 prevnum = 1
 
 for _ in range(N):
-    print(number)
+    print(num)
     num, prevnum = num + prevnum, num
